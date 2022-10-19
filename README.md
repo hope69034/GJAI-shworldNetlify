@@ -1,3 +1,6 @@
-10/20 
-    netlify deploy, resume text, terranOne.mp3
-    <a href="link"></a>    
+10/20 <br>
+    netlify deploy, <br>
+    resume text, <br>
+    terranOne.mp3,<br>
+    a tag    <br>
+<br>
