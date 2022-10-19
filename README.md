@@ -1,4 +1,4 @@
-10/20 <br>
+10/20 <br><br>
     netlify deploy, <br>
     resume text, <br>
     terranOne.mp3,<br>
