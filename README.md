@@ -1,1 +1,1 @@
-10/20 resume text, terranOne.mp3
+10/20 netlify deploy, resume text, terranOne.mp3
